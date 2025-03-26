@@ -56,9 +56,10 @@ npm run dev
 
 ## Ekran Görüntüleri
 
-![Ana Sayfa](/screenshots/dashboard.png)
-![Fatura Yönetimi](/screenshots/invoices.png)
-![Stok Takibi](/screenshots/inventory.png)
+![Ana Sayfa](![Anasayfa](https://github.com/user-attachments/assets/d1d9971c-01b2-453f-9968-df69c0e586b8)
+![Fatura Yönetimi](![Fatura](https://github.com/user-attachments/assets/73e9eca1-b449-46f9-bff1-463e96b2414a)
+![Stok Takibi](![Stok Yönetimi](https://github.com/user-attachments/assets/6e628cef-4297-474f-8ee4-2ef4b8181616)
+)
 
 ## Lisans
 
