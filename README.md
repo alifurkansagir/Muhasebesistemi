@@ -59,7 +59,16 @@ npm run dev
 ![Ana Sayfa](![Anasayfa](https://github.com/user-attachments/assets/d1d9971c-01b2-453f-9968-df69c0e586b8)
 ![Fatura Yönetimi](![Fatura](https://github.com/user-attachments/assets/73e9eca1-b449-46f9-bff1-463e96b2414a)
 ![Stok Takibi](![Stok Yönetimi](https://github.com/user-attachments/assets/6e628cef-4297-474f-8ee4-2ef4b8181616)
-)
+!![Gelir ve Gider yönetimi](https://github.com/user-attachments/assets/789150a1-cebb-44c5-a462-bff053c10ce9)
+![Blanço](https://github.com/user-attachments/assets/8c8ad1ac-c1a5-4852-a533-e67c8cff1160)
+![Sistem Ayarları](https://github.com/user-attachments/assets/76695e2a-a689-4085-ba7b-54a9bf10eb53)
+![Kullanıcı Yönetimi](https://github.com/user-attachments/assets/33acbd12-ecdc-471d-ac83-ff1538cebbc5)
+
+
+
+
+
+
 
 ## Lisans
 
