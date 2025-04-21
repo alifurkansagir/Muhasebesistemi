@@ -1,4 +1,4 @@
-# Muhaseb Sistemi (Kapsamlı Muhasebe Yönetim Sistemi)
+# Muhasebe Sistemi (Kapsamlı Muhasebe Yönetim Sistemi)
 
 Modern işletmeler için geliştirilmiş, Türkçe arayüzlü bir muhasebe ve finansal yönetim sistemi.
 
